@@ -1,15 +1,14 @@
 # 💫 Hi 👋, I'm Rohit Kumar
-**Student  || Electrical Engineer**
+**Student at NIT Patna || Electrical Engineer**
 
 Email Me 👉 ✉️ **rk9006840964@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Kisan e-commerce website
 - 🌱 **I’m currently learning:** DSA, MERN Stack
 - 👯 **I’m looking to collaborate on:**For Farmer 
-- 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rk9006840964@gmail.com
-- 😄 **Pronouns:** HE/Him
+- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
