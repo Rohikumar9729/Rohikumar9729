@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Rohit Kumar
+**Student  || Electrical Engineer**
+
+Email Me 👉 ✉️ **rk9006840964@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Kisan e-commerce website
+- 🌱 **I’m currently learning:** DSA, MERN Stack
+- 👯 **I’m looking to collaborate on:**For Farmer 
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** rk9006840964@gmail.com
+- 😄 **Pronouns:** HE/Him
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ro45_hitkumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-33a831298) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rohitkumar31287) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rohit Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rk9006840964@gmail.com) 
