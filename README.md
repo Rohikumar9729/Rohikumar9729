@@ -21,21 +21,6 @@ Email Me 👉 ✉️ **rk9006840964@gmail.com** For Collaboration/Project or Any
 ![](https://nirzak-streak-stats.vercel.app/?user=Rohikumar9729&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohikumar9729&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-<div align="center">
-
-
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Open profile</summary>
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rohikumar9729&theme=dark&no-frame=false&no-bg=true&margin-w=4)
